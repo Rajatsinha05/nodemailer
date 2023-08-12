@@ -5,7 +5,7 @@ const transporter = ndoemailer.createTransport({
   service: "gmail",
   auth: {
     user: "rajatsinha5467@gmail.com",
-    pass: "xrfcloyropnbinns",
+    pass: "app-password",
   },
 });
 
